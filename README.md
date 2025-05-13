@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d53f9c01-63c9-408f-be98-f0b1f785d6c9" width="150" height="150" alt="Posterfy Logo">
+  <img src="https://github.com/user-attachments/assets/849c303f-85e2-4d9d-949c-a7fd62bb8c55" width="150" height="150" alt="Posterfy Logo">
 </p>
 
 <h1 align="center">Token Book</h1>
